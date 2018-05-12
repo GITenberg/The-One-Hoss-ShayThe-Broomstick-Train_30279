@@ -1,0 +1,40 @@
+_repo: The-One-Hoss-ShayThe-Broomstick-Train_30279
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Pyle, Howard
+    birthdate: 1853
+    deathdate: 1911
+    gutenberg_agent_id: '491'
+    url: http://www.gutenberg.org/2009/agents/491
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Pyle
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holmes, Oliver Wendell
+    birthdate: 1809
+    deathdate: 1894
+    gutenberg_agent_id: '387'
+    url: http://www.gutenberg.org/2009/agents/387
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Wendell_Holmes,_Sr.
+description: ''
+gutenberg_issued: '2009-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30279'
+  lccn: '47041022'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry'
+- !lcc 'PS'
+title: 'The One Hoss Shay
+
+  With its Companion Poems How the Old Horse Won the Bet &
+
+  The Broomstick Train'
+url: http://www.gutenberg.org/ebooks/30279
