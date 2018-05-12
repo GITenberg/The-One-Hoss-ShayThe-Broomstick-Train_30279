@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/387
     wikipedia: http://en.wikipedia.org/wiki/Oliver_Wendell_Holmes,_Sr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30279#The-One-Hoss-ShayThe-Broomstick-Train
 gutenberg_issued: '2009-10-18'
 gutenberg_type: Text
 identifiers:
